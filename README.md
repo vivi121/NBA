@@ -8,7 +8,8 @@ License: MIT
 Scripts:
 
 Here is the link to download R: https://www.rstudio.com/.
-R-Studio, R packages: readr, knitr dplyr, gglot2
+R-Studio, R packages: readr, knitr dplyr, gglot2.
+The rmd files contains the code and comments explain how each steps works.
 
 Final resluts:
 Having a small ball lineup does give a team a better scoring ability than having a traditional lineup.
