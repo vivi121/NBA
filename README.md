@@ -6,17 +6,19 @@ In this project, we would like to analysis how a team's offense can be affected 
 #License: MIT
 
 #Scripts:
+
 Here is the link to download R: https://www.rstudio.com/.
 R-Studio, R packages: readr, knitr dplyr, gglot2
 
 Final resluts:
 Having a small ball lineup does give a team a better scoring ability than having a traditional lineup.
 
+Contributing: 
+The connect info i would like to via email:
+zeng_z1@denison.edu
 
-Authors
-
+Authors:
 ziwei zeng, shuheng zhao
 
-Created date
-
+Created date:
 May 2017
