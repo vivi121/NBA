@@ -11,6 +11,13 @@ Here is the link to download R: https://www.rstudio.com/.
 R-Studio, R packages: readr, knitr dplyr, gglot2.
 The rmd files contains the code and comments explain how each steps works.
 
+Procedures
+
+The report of the work divided into two parts Exploring descriptive analysis and statistical modeling.
+Part I EDA : check the relationships between ORPG and PTSPG use Bivariate Regression and check the residuals of the model. Next. We seperate the teams by blocks and assists. We would like to find the points socred by teams that have blocks above and below the average, and assists above and below the average.
+Part II Modeling:based on the exploring results from Part I, we are aim to find relationships among the variables via linear regression model, in our case, we want to find the relationships among the points with steals, blocks, assist , Turnovers and
+FreeThrow, we would like to regress points on the 4 factors and based on the model.
+
 Final resluts:
 Having a small ball lineup does give a team a better scoring ability than having a traditional lineup.
 
